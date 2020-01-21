@@ -1,7 +1,7 @@
 # RestfullBlogApp
 This is an Blog App. It have feature that you can delete Blog, edit them and Add new Blog also....  
  
-You must have node js install for it to work.To make it work First you have to install some usefull npm packages by using following comments:- 
+You must have node js and MongoDB install for it to work.To make it work First you have to install some usefull npm packages by using following comments:- 
  
 npm init; 
  
