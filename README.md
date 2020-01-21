@@ -10,11 +10,11 @@ npm install express ejs body-parser method-override express-sanitizer moongose -
 The app can be viewed at "localhost:3000/"(without double quotes) 
 
 Technology used:-
-Node JS 
-Express 
-MongoDB (Mongoose package of Express) 
-EJS 
-NPM 
-Simentic ui 
-CSS 
+Node JS, 
+Express, 
+MongoDB (Mongoose package of Express), 
+EJS, 
+NPM, 
+Simentic ui, 
+CSS, 
 HTML 
