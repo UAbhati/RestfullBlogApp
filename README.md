@@ -16,6 +16,6 @@ Express,
 MongoDB (Mongoose package of Express), 
 EJS, 
 NPM, 
-Simentic ui, 
+Semantic ui, 
 CSS, 
 HTML 
